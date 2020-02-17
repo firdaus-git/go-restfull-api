@@ -1,5 +1,5 @@
 # restapi
-Learning Restful Go + Mux
+Learning Restful Go using Gorilla Mux and GORM
 
 
 ## Installation

@@ -1,2 +1,13 @@
 # restapi
 Learning Restful Go + Mux
+
+
+## Installation
+####1. Clone this project or Download that ZIP file
+
+```sh
+$ git clone https://github.com/firdaus-git/restapi.git
+$ go get -u github.com/gorilla/mux
+$ go get -u github.com/jinzhu/gorm
+$ go get -u github.com/go-sql-driver/mysql
+```
